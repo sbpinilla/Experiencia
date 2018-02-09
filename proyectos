@@ -26,6 +26,7 @@ Taxifacil (2013-2014)
 			- Consumo de web service
 			- Base de datos local 
 		IOS
+			- Objective C
 			- Geolocalizacion
 			- Notificaciones push
 			- Consumo de web service
@@ -36,8 +37,15 @@ Taxifacil (2013-2014)
 		Css
 		Mysql
 		Php
-			
-Project(2014)
+
+BioLasert (2014)
+	Sobre el proyecto: Cuestionario 
+	Rol: Desarrollador movil
+	Tecnologias Usadas:	
+		IOS
+		Sqllite	
+		
+Projet(2014)
 	Sobre el proyecto: Gestor de proyectos Interno 
 	Rol: Desarrollador movil
 	Tecnologias usadas:
@@ -45,7 +53,7 @@ Project(2014)
 		IOS
 	
 Cobranzas (CRC) (2014-2015)
-	Sobre el proyecto: Gestor de cartera 
+	Sobre el proyecto: Gestion de recuperacion y cobro de cartera 
 	Rol: Desarrollador backend y frontend
 	Tecnologias usadas:
 		Java
@@ -54,6 +62,22 @@ Cobranzas (CRC) (2014-2015)
 		Primeface
 		Jboss
 		SqlServer
+		Javascript
+		Html
+		Css
+		
+Predictivo
+	Sobre el proyecto: Asignacion de llamada para asesores de call center 
+	Rol: Desarrollador backend y frontend
+	Tecnologias usadas:
+		Java
+		Jsf
+		Jpa
+		Primeface
+		Jboss
+		Asterisk
+		SqlServer
+		Mysql
 		Javascript
 		Html
 		Css
@@ -73,7 +97,7 @@ Cafam Documental (2015)
 		Css
 	
 Collet (2015-2016)
-	Sobre el proyecto: Gestor de cartera 
+	Sobre el proyecto: Gestion de cartera 
 	Rol:Desarrollador backend y frontend
 	Tecnologias usadas:
 		Java
@@ -87,7 +111,7 @@ Collet (2015-2016)
 		Css
 	
 Post (2016-2017)
-	Sobre el proyecto: Facturacion  e inventario 
+	Sobre el proyecto: Sistema de Facturacion  e inventario 
 	Rol: Desarrollador de escritorio, Desarrollador backend y frontend
 	Tecnologias usadas:
 		C#
@@ -112,8 +136,8 @@ DMS(Servicios Exequiales)(2017)
 		SqlServer
 		linq
 		
-Prozess(2017-2018)
-	Sobre el proyecto: Gestion judicial 
+ProzessLaw(2017-2018)
+	Sobre el proyecto: Herramienta automatizada para la eficaz administración, control y auditoría del riesgo asociado a procesos jurídicos.
 	Rol: Desarrollador backend y frontend
 	Tecnologias usadas:
 		C#
@@ -128,8 +152,8 @@ Dependencia judicial (2018)
 	Sobre el proyecto: Uber de documentos
 	Rol: Desarrollador backend y frontend
 	Tecnologias usadas:
-		IOS
-		Android
+		IOS - swift
+		Android - java
 		svn
 
 Domicilios 24/7 (2018)
@@ -146,11 +170,11 @@ Domicilios 24/7 (2018)
 ------------------- Perfil ----------------------
 -------------------------------------------------
 
-Planeo, diseño y desarrollo proyectos de software. Ofreso apoyo cuando se requiera resolver problemas técnicos de programación y hardware.Propongo ideas y analisis de los requerimientos  para llevarlos acabo. Responsable de hacer el seguimiento de su propio progreso, ejecutar y dar mantenimiento a los proyectos de software realizados.
 
+Soy un profesional emprendedor y autodidacta por naturaleza, me gustan los retos ya que pienso que éstos fortalecen profesionalmete cada día. Gusto del estudio y el trabajo en equipo, pongo especial atención en detalles. Hago amigos fácilmente y no se me cierran las puertas ante las dificultades. Obsesivo con la limpieza y el orden, altamente disciplinado ya que pienso que dichas cualidades forman la base del buen desempeño de cualquier actividad.
 
-Soy un profecional emprendedor, me gustan los retos ya que pienso que éstos fortalecen la forma en la que nos formamos en el día a día. Gusto del estudio, soy autodidacta por naturaleza; pongo especial atención en detalles. Hago amigos fácilmente y no se me cierran las puertas ante una dificultad. Obsesivo con el orden y limpieza, altamente disciplinado ya que pienso que dichas cualidades forman la base del buen desempeño de cualquier actividad.
-	
+Planeo, diseño y desarrollo proyectos de software. Ofresco apoyo cuando se requiera resolver problemas técnicos de programación y hardware.Propongo ideas y analisis de los requerimientos  para llevarlos acabo. Responsable de hacer el seguimiento, ejecucion y mantenimiento a los proyectos de software realizados.
+
 
 
 
